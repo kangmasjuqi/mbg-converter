@@ -7,6 +7,12 @@ A simple web app to convert **Rupiah (IDR)** into **MBG units** and vice versa.
 
 ---
 
+## Screenshot
+
+<img width="620" height="724" alt="Screenshot 2026-04-03 at 10 40 29" src="https://github.com/user-attachments/assets/2fb077bb-29ca-48c4-b0a4-a55808b26598" />
+
+---
+
 ## 📌 Concept
 
 - **1 MBG = Rp 1,200,000,000,000 (1.2 Trillion Rupiah)**
